@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<simulation>
+	<parameters>
+	
+	<simmode>0</simmode>
+	<minSimTimeValue>0.0</minSimTimeValue>
+	<simTimeStep>3600</simTimeStep>
+	<simtimescale>1</simtimescale>
+	<simtimeratio>1</simtimeratio>
+	<astronomicalyear>2020</astronomicalyear>
+	<astronomicalmonth>0</astronomicalmonth>
+	<astronomicaldaymonth>1</astronomicaldaymonth>
+	<astronomicalhour24>0</astronomicalhour24>
+	<astronomicalminute>0</astronomicalminute>
+	<astronomicalsecond>0</astronomicalsecond>
+	<astronomicaltimestep>1000</astronomicaltimestep>
+	<minsimpriority>0</minsimpriority>
+	<defaultsimpriority>5</defaultsimpriority>
+	<maxsimpriority>10</maxsimpriority>	
+	<stopsimpriority>10</stopsimpriority>
+	<pausesimpriority>10</pausesimpriority>
+	<astronomicaltimecorrection>0.0</astronomicaltimecorrection>
+	<numberformat>#.###</numberformat>
+
+	</parameters>
+
+</simulation>

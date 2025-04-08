@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dissimlab20211">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DisSimLab2021Test/dissimlab2021.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
